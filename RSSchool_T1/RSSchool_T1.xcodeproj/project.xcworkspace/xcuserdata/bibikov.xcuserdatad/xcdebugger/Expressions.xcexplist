@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[T1Array convertToHappy:]:T1Array.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "happyArray[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MiniMaxArrayConverter convertFromArray:]:MiniMaxArrayConverter.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[min intValue]">
+            </PersistentString>
+            <PersistentString
+               value = "array[i] &lt; min">
+            </PersistentString>
+            <PersistentString
+               value = "array[i]">
+            </PersistentString>
+            <PersistentString
+               value = "[max intValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
