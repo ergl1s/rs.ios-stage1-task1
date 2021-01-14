@@ -3,6 +3,17 @@
    version = "1.0">
    <ContextStates>
       <ContextState
+         contextName = "-[Parser parseString:]:Parser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[string characterAtIndex:z]">
+            </PersistentString>
+            <PersistentString
+               value = "[string characterAtIndex:i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "-[T1Array convertToHappy:]:T1Array.m">
          <PersistentStrings>
             <PersistentString
