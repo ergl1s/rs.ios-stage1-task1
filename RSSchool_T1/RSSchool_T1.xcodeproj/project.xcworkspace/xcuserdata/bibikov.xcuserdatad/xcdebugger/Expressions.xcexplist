@@ -3,6 +3,23 @@
    version = "1.0">
    <ContextStates>
       <ContextState
+         contextName = "-[MiniMaxArrayConverter convertFromArray:]:MiniMaxArrayConverter.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[min intValue]">
+            </PersistentString>
+            <PersistentString
+               value = "array[i] &lt; min">
+            </PersistentString>
+            <PersistentString
+               value = "array[i]">
+            </PersistentString>
+            <PersistentString
+               value = "[max intValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "-[Parser parseString:]:Parser.m">
          <PersistentStrings>
             <PersistentString
@@ -18,23 +35,6 @@
          <PersistentStrings>
             <PersistentString
                value = "happyArray[i]">
-            </PersistentString>
-         </PersistentStrings>
-      </ContextState>
-      <ContextState
-         contextName = "-[MiniMaxArrayConverter convertFromArray:]:MiniMaxArrayConverter.m">
-         <PersistentStrings>
-            <PersistentString
-               value = "[min intValue]">
-            </PersistentString>
-            <PersistentString
-               value = "array[i] &lt; min">
-            </PersistentString>
-            <PersistentString
-               value = "array[i]">
-            </PersistentString>
-            <PersistentString
-               value = "[max intValue]">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
